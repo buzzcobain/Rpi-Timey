@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __author__ = "David Harris"
-__copyright__ = "Copyright 2007, The Cogent Project"
+__copyright__ = "Copyright 2019"
 __credits__ = ["David Harris"]
 __license__ = "GPL"
 __version__ = "1.7.1"
